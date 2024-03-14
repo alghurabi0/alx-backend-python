@@ -1,4 +1,4 @@
-#!/usr/in/env python3
+#!/usr/bin/env python3
 """ type-annotated func """
 from typing import Tuple, Union
 
